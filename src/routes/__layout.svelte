@@ -2,35 +2,15 @@
 	import '../app.scss';
 </script>
 
-<div class="container">
-	<!-- <Header /> -->
-	<!-- <Crumbs /> -->
-
-	<div class="content">
-		<!-- <div class="navigation"> -->
-			<!-- <TOC /> -->
-		<!-- </div> -->
-		<div class="main">
-			<slot />
-		</div>
-
-		<!-- <div class="empty-right" /> -->
-	</div>
-
-	<!-- <Footer /> -->
-</div>
+<main class="main">
+	<slot />
+</main>
     
 <style lang="scss">
-	.container {
-		display: flex;
-		flex-direction: column;
-		min-height: 100vh;
-	}
 
-	.content {
+	.main {
 		display: grid;
-		justify-content: center;
-		margin: 1em;
+		margin: 0 auto;
 	}
 
 	.main {
