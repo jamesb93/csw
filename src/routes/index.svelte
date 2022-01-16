@@ -3,7 +3,9 @@
 </script>
 
 <p>Civic Sound Week</p>
-<p>Opening times 2pm to 8pm daily</p>
+<p>
+    30th January to 5th February, Civic Theatre. Catherine St, Rotherham S65 1EB, Opening times 2pm to 8pm daily.
+</p>
 
 
 <p>
