@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 
-$font: sans-serif;
+$font: 'Nunito', sans-serif;
 $min-text-width: 30ch;
 $max-text-width: 70ch;
 $breakpoint: 1200px;
@@ -8,6 +8,20 @@ $breakpoint: 1200px;
 html {
     font-family: $font;
     font-size: 16px;
+    font-weight: bold;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    line-height: 1.5;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
 }
 
 h1 {
