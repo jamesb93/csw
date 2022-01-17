@@ -49,7 +49,7 @@
 </p>
 
 <p>
-    An introductory workshop to live coding in TidalCycles, for up to eight participants. We will spend some time listening to sound pattern structures made from TidalCycles, before making music together by combining pattern transformations together using code. No prior knowledge of music or coding is required. Participants will need to bring their own laptop, which will only need a working web browser and wifi. For more information or to sign up for the session please contact ​​alex@slab.org
+    An introductory workshop to live coding in TidalCycles, for up to eight participants. We will spend some time listening to sound pattern structures made from TidalCycles, before making music together by combining pattern transformations together using code. No prior knowledge of music or coding is required. Participants will need to bring their own laptop, which will only need a working web browser and wifi. For more information or to sign up for the session please go to https://rotherhamtheatres.ticketsolve.com/shows/1173620629.
 </p>
 
 <p>~</p>
@@ -91,7 +91,7 @@
 </p>
 
 <p>
-    Ed and Ryoko invite you to join their DJ salon, to listen together, while talk and discussing life and music. For more information or to sign up for the session please contact ryokoakama@gmail.com
+    Ed and Ryoko invite you to join their DJ salon, to listen together, while talk and discussing life and music. For more information or to sign up for the session please go to https://rotherhamtheatres.ticketsolve.com/shows/1173620636.
 </p>
 
 <p>~</p>
