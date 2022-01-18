@@ -45,11 +45,26 @@
 <ProfileImage src='/alex-min.jpg' alt='Alex McClean profile photo'/>
 
 <p>
-    Workshop 2pm
+    Broken symmetry - TidalCycles workshop
 </p>
 
-<p>
-    An introductory workshop to live coding in TidalCycles, for up to eight participants. We will spend some time listening to sound pattern structures made from TidalCycles, before making music together by combining pattern transformations together using code. No prior knowledge of music or coding is required. Participants will need to bring their own laptop, which will only need a working web browser and wifi. For more information or to sign up for the session please go to https://rotherhamtheatres.ticketsolve.com/shows/1173620629.
+<p> 
+    An introductory, beginners workshop exploring musical patterns with
+    simple algorithms. We will use the free TidalCycles software
+    (<a target='_blank' href='https://tidalcycles.org'>https://tidalcycles.org</a>) made by Alex, which lets you explore
+    patterns by "live coding" - making changes to algorithmic patterns
+    while listening to them. TidalCycles lets you describe simple
+    patternings like repetition, reflection, time shifting and stretching,
+    but allows you to combine them at different scales, to break
+    symmetries and create strange interferences.
+
+    No prior knowledge of music or coding is required! Participants will
+    need to bring their own laptop, with the free/open source TidalCycles
+    software installed. Once you sign up we'll send more information, and
+    support will be available if you need help with installing the
+    software.
+
+    For more information or to sign up for the session please go to <a target='_blank' href="https://rotherhamtheatres.ticketsolve.com/shows/1173620629">https://rotherhamtheatres.ticketsolve.com/shows/1173620629</a>.
 </p>
 
 <p>~</p>
@@ -90,8 +105,8 @@
     Workshop 2pm
 </p>
 
+Ed and Ryoko invite you to join their DJ salon, to listen together, while talk and discussing life and music. For more information or to sign up for the session please go to <a target='_blank' href="https://rotherhamtheatres.ticketsolve.com/shows/1173620636">https://rotherhamtheatres.ticketsolve.com/shows/1173620636</a>.
 <p>
-    Ed and Ryoko invite you to join their DJ salon, to listen together, while talk and discussing life and music. For more information or to sign up for the session please go to https://rotherhamtheatres.ticketsolve.com/shows/1173620636.
 </p>
 
 <p>~</p>
