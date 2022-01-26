@@ -57,13 +57,13 @@
     patternings like repetition, reflection, time shifting and stretching,
     but allows you to combine them at different scales, to break
     symmetries and create strange interferences.
-
+    
     No prior knowledge of music or coding is required! Participants will
     need to bring their own laptop, with the free/open source TidalCycles
     software installed. Once you sign up we'll send more information, and
     support will be available if you need help with installing the
     software.
-
+    
     For more information or to sign up for the session please go to <a target='_blank' href="https://rotherhamtheatres.ticketsolve.com/shows/1173620629">https://rotherhamtheatres.ticketsolve.com/shows/1173620629</a>.
 </p>
 
@@ -86,28 +86,40 @@
 <p>~</p>
 
 <p>
-    Thursday 3rd February. 
+    Thursday 3rd February (drop in between 2pm and 8pm)
 </p>
 
 <p>
-    Ed Martin (aka edv3ctor) in collaboration with Ryoko Akama. 2022 Premier. 
+    Ed Martin and Ryoko Akama, untitled - 2022 premier (approximately 65 minutes looped)
 </p>
 
 <p>
-    For this new collaboration Ed and Ryoko present two new sound installations, exploring their fascination with DJ playlists drawing from Ed’s work in the region as a prolific and groundbreaking DJ. Incorporating field recording, voice, music and electronic synthesis the listener is taken on a sound journey exploring ideas of place and identity. Ryoko, a sound artist based in Yorkshire, works with a particular sensitivity to space, environment and action, and has presented her work around the world. 
+    Ryoko has been fascinated by ed’s voice and firstly approached him to collaborate to create sound pieces together in winter 2020. This exclusive sound piece for the 20 multi-channel system introduces Ed as a poet, listener, music lover and 'loiner' (demonym, the citizens of Leeds). In the week together, Ryoko collects their conversations, recordings and electronic manipulations. These unprocessed and raw materials, intimate and accidental, are constructed into a sound journey exploring ideas of humanity, place and identity. 
+</p>
+
+<p>
+    Poem, voice and field recording by Ed Martin (aka edv3ctor). 
+    <br>
+    Concept, electronics and composition by Ryoko Akama
+</p>
+
+<p>
+    Ed Martin is a ground-breaking DJ, edv3ctor who lives in Leeds. 
+    <br>
+    Ryoko Akama is a sound artist who lives in Huddersfield.
+</p>
+
+<p>
+    Workshop 2pm.
+</p>
+
+<p>
+    Ed and Ryoko invite you to join their DJ salon, to listen together, while talk and discussing life and music. For more information or to sign up for the session please go to <a target='_blank' href="https://rotherhamtheatres.ticketsolve.com/shows/1173620636">https://rotherhamtheatres.ticketsolve.com/shows/1173620636</a>.
 </p>
 
 <ProfileImage src='/ed-min.jpg' alt='Ed Vector profile photo'/>
 
 <ProfileImage src='/ryoko-min.jpeg' alt='Ryoko profile photo'/>
-
-<p>
-    Workshop 2pm
-</p>
-
-Ed and Ryoko invite you to join their DJ salon, to listen together, while talk and discussing life and music. For more information or to sign up for the session please go to <a target='_blank' href="https://rotherhamtheatres.ticketsolve.com/shows/1173620636">https://rotherhamtheatres.ticketsolve.com/shows/1173620636</a>.
-<p>
-</p>
 
 <p>~</p>
 
@@ -123,10 +135,3 @@ Ed and Ryoko invite you to join their DJ salon, to listen together, while talk a
 </p>
 
 <ProfileImage src='/rian-min.jpg' alt='Rian Treanor profile photo'/>
-
-
-<style>
-    h1 {
-        color: grey;
-    }
-</style>
