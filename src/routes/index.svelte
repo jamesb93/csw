@@ -86,7 +86,7 @@
 <p>~</p>
 
 <p>
-    Thursday 3rd February (drop in between 2pm and 8pm)
+    Thursday 3rd February.
 </p>
 
 <p>
