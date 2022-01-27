@@ -17,7 +17,7 @@
 <p>~</p>
 
 <p>
-    Sunday 30th and Monday 31st of January. 
+    Sunday 30th and Monday 31st of January, (drop in between 2pm 8pm)
 </p>
 
 <p>
@@ -32,7 +32,7 @@
 <p>~</p>
 
 <p>
-    Tuesday 1st February. 
+    Tuesday 1st February, (drop in between 2pm 8pm)
 </p>
 <p>
     Alex Mclean, Broken Symmetry, 2022 premier. 
@@ -70,7 +70,7 @@
 <p>~</p>
 
 <p>
-    Wednesday 2nd February. 
+    Wednesday 2nd February, (drop in between 2pm 8pm) 
 </p>
 
 <p>
@@ -86,7 +86,7 @@
 <p>~</p>
 
 <p>
-    Thursday 3rd February.
+    Thursday 3rd February, (drop in between 2pm 8pm)
 </p>
 
 <p>
@@ -124,7 +124,7 @@
 <p>~</p>
 
 <p>
-    Friday 4th and Saturday 5th February. 
+    Friday 4th and Saturday 5th February, (drop in between 2pm 8pm) 
 </p>
 <p>
     Rian Treanor, Polymutant Spikes, 2022, Premier.
